@@ -7,7 +7,7 @@ This guide will help you set up Nginx and deploy a simple website on your local 
 ### 1. Install Nginx
 
 ```bash
-$ sudo apt install nginx
+sudo apt install nginx
 ```
 
 ### 2. Configure Nginx for "mysite"
